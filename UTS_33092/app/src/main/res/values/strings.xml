@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UTS_33092</string>
+
+    <string-array name="sfx_title">
+        <item>Tuturu</item>
+        <item>Amogus</item>
+        <item>Pain Peko</item>
+    </string-array>
+    <string-array name="sfx_desc">
+        <item>Anime</item>
+        <item>Meme</item>
+        <item>Vtuber</item>
+    </string-array>
+
+</resources>
